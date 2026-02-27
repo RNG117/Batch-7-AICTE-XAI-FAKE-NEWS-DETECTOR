@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Explainable AI (XAI) Fake News Detector
+# Explainable AI (XAI) Fake News Detector
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -50,11 +50,11 @@ streamlit run app.py
 
 *Note: The app will automatically open in your default web browser at http://localhost:8501. The Flan-T5 summarization model will be downloaded from Hugging Face automatically upon the first run.*
 
-## 🔮 Future Scope
+## Future Scope
 * **Multilingual Support:** Expanding NLP capabilities to detect disinformation in regional languages.
 * **Domain Reputation Analysis:** Integrating OSINT APIs (like VirusTotal or WHOIS) to cross-reference URL domain age and credibility.
 * **Deepfake Text Detection:** Upgrading the classification pipeline to detect AI-generated text payloads.
 
-## 👨‍💻 Author
+## Author
 **Rujaal Ghate** | B.Tech Computer Science & Engineering (Cybersecurity)  
 *Capstone Project*
