@@ -35,8 +35,7 @@ This capstone project is a **hybrid Artificial Intelligence system** designed to
 
 **1. Clone this repository:**
 ```bash
-git clone [https://github.com/rujaal-ghate/XAI-Fake-News-Detector.git](https://github.com/rujaal-ghate/XAI-Fake-News-Detector.git)
-cd XAI-Fake-News-Detector
+git clone https://github.com/rujaal-ghate/XAI-Fake-News-Detector.git
 ```
 **2. Install the required dependencies:**
 ```bash
